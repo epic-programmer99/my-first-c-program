@@ -4,7 +4,7 @@
 // This is the main function
 int main(int argc, char const *argv[])
 {
-	printf("%s\n","go beyond do never look back beacouse the besst view comes after the hardes climb!!!!" );
+	printf("%s\n","Go beyond do never look back because the best view come's after the hardest climb!!!!" );
 	
 	return 0;
 }
